@@ -1,0 +1,105 @@
+
+
+#banner {
+	overflow: hidden;
+	border: 1px solid #9c9c9c;
+	width: 300px;
+	height: 250px;
+	position: relative;
+}
+
+.tan-bg {
+	width: 300px;
+	height: 146px;
+	background-color: #c2ac8e;
+}
+
+h1, h2, h4, h5, h6, p, a, button {
+	font-family: "futura-pt";
+	font-weight: 700;
+	color: #fff;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 24.5px;
+	position: absolute;
+	top: 0;
+	left: 96px;
+	margin: 0;
+	line-height: 1.1;
+}
+
+.asterisk {
+	font-weight: 500;
+	display: inline-block;
+	transform: scale(.65) translate(-3px, -6px);
+}
+
+#amount {
+	font-size: 38px;
+	position: relative;
+	bottom: -3px;
+}
+
+#amount-kern {
+	letter-spacing: -3px;
+}
+
+h3 {
+	font-family: "futura-pt-condensed";
+	font-weight: 500;
+	font-size: 7.5px;
+	color: #dfdede;
+
+	position: absolute;
+	top: 130px;
+	left: 94px;
+	margin: 0;
+	letter-spacing: .7px;
+}
+
+.big-box-person {
+	position: absolute;
+	left: 17px;
+	top: 7px;
+}
+
+.big-box-logo {
+	position: absolute;
+	left: 84px;
+	top: 198px;
+	width: 188px;
+}
+
+button {
+	position: absolute;
+	left: 97px;
+	top: 161px;
+
+	width: 146px;
+	height: 27px;
+	padding: 0px;
+	
+	background-color: #c2ac8e;
+	border: none;
+
+	-webkit-box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	-moz-box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	
+	font-size: 15px;
+	letter-spacing: 1.2px;
+
+/*	border-top-color: #d3c4ae;
+	border-right-color: #bfa98b;
+	border-bottom-color: #9b8972;
+	border-left-color: #a6947c;*/
+}
+
+
+
+

@@ -1,0 +1,132 @@
+
+
+#banner {
+	overflow: hidden;
+	border: 1px solid #9c9c9c;
+	width: 728px;
+	height: 90px;
+	position: relative;
+}
+
+#left-tan, #left-tan-triangle {
+	/*z-index: -1;*/
+}
+
+#left-tan {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -2;
+
+	height: 90px;
+	width: 458px;
+	background: #c2ac8e;
+}
+
+#left-tan-triangle {
+	position: absolute;
+	left: 458px;
+	z-index: -2;
+
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 45px 0 45px 15px;
+	border-color: transparent transparent transparent #c2ac8e;
+}
+
+#checker {
+	position: absolute;
+	height: 45px;
+	left: 460px;
+	top: 45px;
+
+	width: 2px;
+	height: 2px;
+	background: #fff;
+}
+
+h1, h2, h4, h5, h6, p, a, button {
+	font-family: "futura-pt";
+	font-weight: 700;
+	color: #fff;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 20px;
+	margin: 19px 0 0 12px;
+	display: inline-block;
+}
+
+.asterisk {
+	font-weight: 500;
+}
+
+#amount {
+	font-size: 31px;
+	position: relative;
+	bottom: -3px;
+}
+
+#amount-kern {
+	letter-spacing: -3px;
+}
+
+h3 {
+	font-family: "futura-pt-condensed";
+	font-weight: 500;
+	font-size: 9px;
+	color: #dfdede;
+
+	position: absolute;
+	bottom: 8px;
+	left: 12px;
+	margin: 0;
+	letter-spacing: .7px;
+}
+
+.leaderboard-person {
+	position: absolute;
+	left: 456px;
+	top: 0;
+}
+
+.leaderboard-logo {
+	position: absolute;
+	right: 12px;
+	bottom: 4px;
+	width: 168px;
+}
+
+button {
+	position: absolute;
+	right: 16px;
+	top: 12px;
+
+	width: 146px;
+	height: 27px;
+	padding: 0px;
+	
+	background-color: #c2ac8e;
+	border: none;
+
+	-webkit-box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	-moz-box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	box-shadow: inset 0px -1px 2px 0px rgba(0,0,0,0.6), inset 0px 1px 1px 0px rgba(255,255,255,0.8);
+	
+	font-size: 15px;
+	letter-spacing: 1.2px;
+
+/*	border-top-color: #d3c4ae;
+	border-right-color: #bfa98b;
+	border-bottom-color: #9b8972;
+	border-left-color: #a6947c;*/
+}
+
+
+
+
