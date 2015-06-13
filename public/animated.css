@@ -203,47 +203,47 @@ button {
 
 
 #head-one	{
-	background-image: url('img/head-1.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/head-1.jpg');
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #head-two	{
-	background-image: url('img/head-2.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/head-2.jpg');
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #head-three	{
-	background-image: url('img/head-3.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/head-3.jpg');
 	-webkit-transform: rotateY(-240deg) translateX(70px);
 }
 
 #top-one	{
-	background-image: url('img/top-1.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/top-1.jpg');
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #top-two	{
-	background-image: url('img/top-2.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/top-2.jpg');
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #top-three	{
-	background-image: url('img/top-3.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/Top-3.jpg');
 	-webkit-transform: rotateY(-240deg) translateX(70px);
 }
 
 #legs-one	{
-	background-image: url('img/legs-1.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/legs-1.jpg');
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #legs-two	{
-	background-image: url('img/legs-2.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/legs-2.jpg');
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #legs-three	{
-	background-image: url('img/legs-3.jpg');
+	background-image: url('https://dl.dropboxusercontent.com/u/41091972/legs-3.jpg');
 	-webkit-transform: rotateY(-240deg) translateX(70px);
 }
 
