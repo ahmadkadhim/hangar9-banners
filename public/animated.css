@@ -129,7 +129,7 @@ button {
 #head {
 	position: absolute;
 	top: 50px;
-	left: -60px;
+	left: -70px;
 	height: 84px;
 	width: 140px;
 	/*background: #fc0;*/
@@ -148,7 +148,7 @@ button {
 #top {
 	position: absolute;
 	top: 139px;
-	left: -60px;
+	left: -70px;
 	height: 120px;
 	width: 140px;
 	/*background: #0c0;*/
@@ -167,14 +167,14 @@ button {
 #legs {
 	position: absolute;
 	top: 257px;
-	left: -60px;
+	left: -70px;
 	height: 120px;
 	width: 140px;
 	
 	-webkit-animation: spinner 8s infinite ease-in-out 2.78s;
 	animation: spinner 8s infinite ease-in-out 2.78s;
 
-	-webkit-transform-origin: 70px 0 0;
+	-webkit-transform-origin: 80px 0 0;
 
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
@@ -183,67 +183,67 @@ button {
 }
 
 
-#head div, #top div, #legs div {
+#head img, #top img, #legs img {
 	width: 149px;
 	position: absolute;
-	-webkit-backface-visibility: hidden;
+	/*-webkit-backface-visibility: hidden;*/
 }
 
-#head div {
+#head img {
 	height: 84px;
 }
 
-#top div {
+#top img {
 	height: 112px;
 }
 
-#legs div {
+#legs img {
 	height: 205px;
 }
 
 
 #head-one	{
-	background-image: url('img/head-1.jpg');
+	/*background-image: url('img/head-1.jpg');*/
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #head-two	{
-	background-image: url('img/head-2.jpg');
+	/*background-image: url('img/head-2.jpg');*/
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #head-three	{
-	background-image: url('img/head-3.jpg');
+	/*background-image: url('img/head-3.jpg');*/
 	-webkit-transform: rotateY(-240deg) translateX(70px);
 }
 
 #top-one	{
-	background-image: url('img/top-1.jpg');
+	/*background-image: url('img/top-1.jpg');*/
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #top-two	{
-	background-image: url('img/top-2.jpg');
+	/*background-image: url('img/top-2.jpg');*/
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #top-three	{
-	background-image: url('img/top-3.jpg');
-	-webkit-transform: rotateY(-240deg) translateX(70px);
+	/*background-image: url('img/top-3.jpg');*/
+	-webkit-transform: rotateY(240deg) translateX(70px);
 }
 
 #legs-one	{
-	background-image: url('img/legs-1.jpg');
+	/*background-image: url('img/legs-1.jpg');*/
 	-webkit-transform: rotateY(0deg) translateX(70px);
 }
 
 #legs-two	{
-	background-image: url('img/legs-2.jpg');
+	/*background-image: url('img/legs-2.jpg');*/
 	-webkit-transform: rotateY(-120deg) translateX(70px);
 }
 
 #legs-three	{
-	background-image: url('img/legs-3.jpg');
+	/*background-image: url('img/legs-3.jpg');*/
 	-webkit-transform: rotateY(-240deg) translateX(70px);
 }
 
